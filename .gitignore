@@ -1,0 +1,10 @@
+# Project exclude paths
+/target/
+.idea
+*.iws
+*.iml
+*.ipr
+.mvn/
+out/
+*.bin
+*.lock
